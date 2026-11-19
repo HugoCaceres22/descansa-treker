@@ -1,0 +1,14 @@
+<resources>
+    <style name="AppTheme" parent="android:style/Theme.Material.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:colorAccent">#FFC629</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar">false</item>
+        <item name="android:windowActionModeOverlay">true</item>
+        <item name="android:windowBackground">#080808</item>
+        <item name="android:navigationBarColor">#080808</item>
+        <item name="android:statusBarColor">#080808</item>
+    </style>
+    <color name="icon_background">#FFC629</color>
+    <string name="accessibility_description">Oscurece la pantalla, incluidas las superficies del sistema que permita tu móvil, y muestra controles flotantes. No lee el contenido de las pantallas, no pulsa botones por ti y no envía datos. Puedes desactivarlo aquí en cualquier momento.</string>
+</resources>

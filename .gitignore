@@ -1,0 +1,15 @@
+tools/
+build/
+dist/
+.private/
+__pycache__/
+.venv/
+*.pyc
+*.jks
+*.keystore
+*.p12
+*.idsig
+*.b64
+*.log
+local.properties
+signing.json
